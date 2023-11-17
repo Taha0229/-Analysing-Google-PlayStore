@@ -1,4 +1,4 @@
-# -Analysing-Google-PlayStore
+# Analysing-Google-PlayStore
 This is a Exploratory Data Analysis project which I conducted over Google PlayStore to find application trends.
 
 **Analysis of Google Play Store depending upon application’s category and type -**
