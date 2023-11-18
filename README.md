@@ -13,13 +13,17 @@ In this data science project I tried to analyse the following questions that an 
 2. Which app category offers compelling opportunities based on its popularity
    ![category_popularity](https://github.com/Taha0229/Analysing-Google-PlayStore/assets/113607983/1c43bc81-6510-43b9-9c72-c5bb29489049)
 3. How many downloads someone would give up by making their app paid vs. free
-   ![free_vs_paid](https://github.com/Taha0229/Analysing-Google-PlayStore/assets/113607983/a9e8bf1f-dfc5-493f-b7cb-2ea28bc4278b)
+   ![download_given_up](https://github.com/Taha0229/Analysing-Google-PlayStore/assets/113607983/ea9c7505-b5f3-4741-b927-d3f57bc790b3)
+
 
 4. How much someone can reasonably charge for a paid app
-   ![category concentration](https://github.com/Taha0229/Analysing-Google-PlayStore/assets/113607983/0e11ebe5-2ed6-4262-b5d5-541fadb6ee87)
+   ![price_per_category](https://github.com/Taha0229/Analysing-Google-PlayStore/assets/113607983/8dedc717-914b-43a7-be6c-99e5d2651222)
+
 
 5. Which paid apps have had the highest revenue
 6. How many paid apps will recoup their development costs based on their sales revenue
+   ![How_much-paid_apps_can_earn](https://github.com/Taha0229/Analysing-Google-PlayStore/assets/113607983/ba0d95be-b96c-4593-9fda-662dea461b01)
+
 
 **Outcomes of the analysis**
 <br>
