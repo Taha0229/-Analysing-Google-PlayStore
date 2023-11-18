@@ -1,5 +1,6 @@
 # Analysing-Google-PlayStore
-!google_play_store_banner(https://github.com/Taha0229/Analysing-Google-PlayStore/blob/main/images/google_play_store.pngraw=true)
+![google_play_store](https://github.com/Taha0229/Analysing-Google-PlayStore/assets/113607983/02daf88f-ae42-4274-a948-41611f857eae)
+
 This is a Exploratory Data Analysis project which I conducted over Google PlayStore to find application trends.
 
 
