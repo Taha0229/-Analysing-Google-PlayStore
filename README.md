@@ -23,6 +23,14 @@ In this data science project I tried to analyse the following questions that an 
 5. Which paid apps have had the highest revenue
 6. How many paid apps will recoup their development costs based on their sales revenue
    ![How_much-paid_apps_can_earn](https://github.com/Taha0229/Analysing-Google-PlayStore/assets/113607983/ba0d95be-b96c-4593-9fda-662dea461b01)
+7. More useful observations:
+   i. category concentration
+   ![category concentration](https://github.com/Taha0229/Analysing-Google-PlayStore/assets/113607983/545ee22c-ad70-4934-971b-b92b62213036)
+   ii. free vs paid apps
+  ![free_vs_paid](https://github.com/Taha0229/Analysing-Google-PlayStore/assets/113607983/75e4f0bc-09d5-4a1c-9517-2ab619734277)
+iii. app categories
+![Uploading app_category.png…]()
+
 
 
 **Outcomes of the analysis**
